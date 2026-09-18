@@ -1,1 +1,1 @@
-tictactoe==1.0.1
+tictactoe==0.0.1
